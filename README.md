@@ -5,7 +5,7 @@ Bullet Bonanza is a 2D arcade-style shooter game made using Java Swing. It has a
 
 What the project does:
 The core gameplay is built off the player’s survival. The player controls a blue bar at the bottom of the screen using left and right arrow keys. The player may also shoot a “bullet” upward by pressing the spacebar key.
-The game starts with the score at 0, player at 5/5 lives, and 
+The game starts with the score at 0, player at 5/5 lives, and the player can gain points by methods outlined below. Lives may also be replenished at the cost of score. 
 
 Enemies:
 - Red squares: These must be shot with a bullet. If they hit the player or the bottom of the screen, the player loses a life.
